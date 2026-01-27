@@ -6,7 +6,7 @@ navbar_entries:
     url: blog
 
   - title: website
-    url: https://www.abhinav.co
+    url: 
 
 project_entries:
   - title: Active Directory Setup
@@ -83,19 +83,19 @@ misc_entries:
   - title: moonwalk on the Internet
     url: false
     entries:
-      - title: on Github
-        url: https://github.com/abhinavs/moonwalk
+  - title: on Github
+    url: https://github.com/abhinavs/moonwalk
 
-      - title: originally built for abhinav's homepage
-        url: https://www.abhinav.co
+   - title:  
+    url: 
 
-      - title: this list is scalable and can be nested
-        url: false
-        entries:
-          - title: this is nested inside a nested list
-            url: false
+   - title: this list is scalable and can be nested
+    url: false
+    entries:
+   - title: this is nested inside a nested list
+    url: false
 
-          - title: it is easy to use, see _data/home.yml to see how to configure it.
-            url: false
+    - title: it is easy to use, see _data/home.yml to see how to configure it.
+    url: false
 
 

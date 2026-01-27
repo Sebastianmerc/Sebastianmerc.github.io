@@ -8,12 +8,11 @@ permalink: /:slug
 
 favicon: "./logo.png" # relative path to site's favicon
 
-twitter:
     username:  # update or delete this
     card: summary_large_image
 
 #theme: moonwalk # if you are using GitHub Pages, change it to remote_theme: abhinavs/moonwalk
-remote_theme: abhinavs/moonwalk
+remote_theme: 
 
 theme_config:
   appearance: "dark" # can be "light", "dark" or "auto"
@@ -38,8 +37,7 @@ theme_config:
     title_blog: 
     title_old_projects: 
 
- "" # sign up at https://www.soopr.co to get your publish token and personalize share and reaction options
-
+ 
 highlighter: rouge
 
 sass:
